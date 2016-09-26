@@ -30,8 +30,6 @@ export function handleLanguageChange(selectedLang){
     }
 }
 
-
-
 export default function User(state = initialState, action){
     switch(action.type){
         case(CHANGE_USER_LANGUAGE):

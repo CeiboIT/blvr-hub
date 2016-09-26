@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import MenuBar from '../components/MenuBar';
+import FooterContainer from '../containers/FooterContainer';
 class MainContainer extends Component{
     constructor(props){
         super(props);
@@ -10,6 +11,7 @@ class MainContainer extends Component{
             <div className="container margin-top">
                 {this.props.children}
             </div>
+            <FooterContainer/>
         </div>)
     }
 }

@@ -1,7 +1,7 @@
 import React, { Component, PropTypes} from 'react';
 import LandingHeader from '../components/LandingHeader';
+import LandingContactForm from '../components/LandingContactForm';
 import {connect} from 'react-redux';
-
 
 class LandingContainer extends Component {
     constructor(props){
@@ -9,10 +9,10 @@ class LandingContainer extends Component {
     }
 
     render() {
-
         return(
             <div className="row">
                 <LandingHeader language={this.props.user.get('language')}/>
+                <LandingContactForm language={this.props.user.get('language')}/>
             </div>
         )
     }

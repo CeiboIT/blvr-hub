@@ -1,0 +1,18 @@
+{
+  "en": {
+    "email": "Email address",
+    "phone": "Telephone",
+    "name": "Name"
+  },
+  "ja": {
+    "email": "メールアドレス",
+    "phone": "電話番号",
+    "name": "お名前"
+  },
+
+  "es": {
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "name": "Nombre"
+  }
+}
