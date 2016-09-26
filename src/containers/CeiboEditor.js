@@ -1,6 +1,6 @@
 import React from 'react';
 import Draft from 'draft-js'
-import 'draft-js/dist'
+
 const {
     AtomicBlockUtils,
     Editor,
