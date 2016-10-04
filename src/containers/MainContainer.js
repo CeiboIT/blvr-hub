@@ -8,7 +8,7 @@ class MainContainer extends Component{
     render(){
         return (<div>
             <MenuBar/>
-            <div className="container margin-top">
+            <div className="container main-container">
                 {this.props.children}
             </div>
             <FooterContainer/>
