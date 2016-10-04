@@ -2,17 +2,26 @@
   "en": {
     "email": "Email address",
     "phone": "Telephone",
-    "name": "Name"
+    "name": "Name",
+    "message": "Message",
+    "submit": "Submit",
+    "contactUs": "Contact us"
   },
   "ja": {
     "email": "メールアドレス",
     "phone": "電話番号",
-    "name": "お名前"
+    "name": "お名前",
+    "message": "メッセージ",
+    "submit": "提出する",
+    "contactUs": "お問い合わせ"
   },
 
   "es": {
     "email": "Correo electrónico",
     "phone": "Teléfono",
-    "name": "Nombre"
+    "name": "Nombre",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "contactUs": "Contáctenos"
   }
 }

@@ -1,15 +1,4 @@
-input[type="text"].contact
-{
-    background: transparent;
-    border: white solid 1px;
-    padding: 2em;
-    width:100%;
-    color: white;
-    margin: 0;
-}
-
-.contactFormContainer {
-    background-color: black;
-    width:100%;
-    padding:2em;
+.jumbotron{
+    margin-top: 30px;
+    background: #fff;
 }
