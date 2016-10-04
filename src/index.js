@@ -11,6 +11,8 @@ import createLogger from 'redux-logger';
 import getRoutes from './config/routes';
 const logger = createLogger();
 
+require("./index.css");
+
 const store = createStore(
     combineReducers({...reducers, routing: routerReducer}),
     compose(

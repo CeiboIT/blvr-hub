@@ -34,24 +34,21 @@ class FooterContainer extends Component {
                                 <h4>Follow Us</h4>
                                 <ul className="social-buttons">
                                     <li>
-                                        <a className="btn btn-just-icon btn-simple btn-instagram" href="https://www.instagram.com/sof.tokyo/" target="_blank">
-                                            <i className="fa fa-instagram"></i>
+                                        <a className="btn btn-youtube" href="https://www.instagram.com/sof.tokyo/" target="_blank">
+                                            <i className="fa fa fa-youtube-play"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="btn btn-just-icon btn-simple btn-twitter" href="https://twitter.com/Sof_tokyo" target="_blank">
+                                        <a className="btn btn-twitter" href="https://twitter.com/Sof_tokyo" target="_blank">
                                             <i className="fa fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="btn btn-just-icon btn-simple btn-facebook" href="https://www.facebook.com/springoffashion/" target="_blank">
+                                        <a className="btn btn-facebook" href="https://www.facebook.com/springoffashion/" target="_blank">
                                             <i className="fa fa-facebook-square"></i>
                                         </a>
                                     </li>
                                 </ul>
-                                <h4>Numbers Don't Lie</h4>
-                                <h4 className="text-muted">14.521 <small>Freelancers</small></h4>
-                                <h4>1.423.183 <small>Transactions</small></h4>
                             </div>
                         </div>
                     </div>
