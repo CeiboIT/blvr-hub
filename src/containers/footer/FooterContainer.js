@@ -56,27 +56,27 @@ class FooterContainer extends Component {
                     <ul className="pull-left">
                         <li>
                             <a>
-                                About Us
+                                Inicio
                             </a>
                         </li>
                         <li>
                             <a>
-                                Presentation
+                                Sonbre nosotros
                             </a>
                         </li>
                         <li>
                             <a>
-                            Discover
+                                Clientes
                             </a>
                         </li>
                         <li>
                             <a>
-                                Payment
+                                Blog
                             </a>
                         </li>
                         <li>
                             <a>
-                                Contact Us
+                                Contacto
                             </a>
                         </li>
                     </ul>
