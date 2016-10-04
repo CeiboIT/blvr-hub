@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import MenuBar from '../components/MenuBar';
-import FooterContainer from '../containers/FooterContainer';
+import FooterContainer from '../containers/footer/FooterContainer';
 class MainContainer extends Component{
     constructor(props){
         super(props);
