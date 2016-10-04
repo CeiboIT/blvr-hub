@@ -1,0 +1,29 @@
+{
+  "ja": {
+    "links": {
+      "aboutUs": "私たち",
+      "home": "ホーム",
+      "contact": "連絡",
+      "customers": "お客様",
+      "blog": "ブログ"
+    }
+  },
+  "en": {
+    "links": {
+      "aboutUs": "ABOUT US",
+      "home": "HOME",
+      "contact": "CONTACT",
+      "customers": "CUSTOMERS",
+      "blog": "BLOG"
+    }
+  },
+  "es": {
+    "links": {
+      "aboutUs": "SOBRE NOSOTROS",
+      "home": "INICIO",
+      "contact": "CONTACTO",
+      "customers": "CLIENTES",
+      "blog": "BLOG"
+    }
+  }
+}
