@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import MenuBar from '../components/MenuBar';
+import MenuBar from '../components/menuBar/MenuBar';
 import FooterContainer from '../containers/footer/FooterContainer';
 class MainContainer extends Component{
     constructor(props){

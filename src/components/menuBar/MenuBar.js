@@ -1,10 +1,12 @@
 import React , {Component, PropTypes } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import * as userActions from '../redux/modules/User';
+import * as userActions from '../../redux/modules/User';
 const languages = ['es', 'en', 'ja'];
 import { DropdownButton, MenuItem} from 'react-bootstrap'
 import * as i18n from './MenuBarI18n.json';
+
+import './MenuBar.css'
 
 
 function LanguageOptionsElement({language}){
